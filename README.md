@@ -74,16 +74,16 @@ contact:
 <div align="center">
 
 <a href="https://github.com/eyouyou/WPFDrawing.Next">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyouyou&repo=WPFDrawing.Next&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyouyou&repo=WPFDrawing.Next&theme=apprentice&hide_border=true" />
 </a>
 <a href="https://github.com/eyouyou/pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyouyou&repo=pipeline&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyouyou&repo=pipeline&theme=apprentice&hide_border=true" />
 </a>
 <a href="https://github.com/eyouyou/Router.WPF">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyouyou&repo=Router.WPF&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyouyou&repo=Router.WPF&theme=apprentice&hide_border=true" />
 </a>
 <a href="https://github.com/eyouyou/WpfDrawing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyouyou&repo=WpfDrawing&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyouyou&repo=WpfDrawing&theme=apprentice&hide_border=true" />
 </a>
 
 </div>
@@ -94,17 +94,17 @@ contact:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eyouyou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eyouyou&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eyouyou&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eyouyou&theme=apprentice&hide_border=true" alt="GitHub streak" />
 
-<br/><br/>
+<br/>
 
-<img src="https://raw.githubusercontent.com/eyouyou/eyouyou/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" />
-<img src="https://raw.githubusercontent.com/eyouyou/eyouyou/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" />
+<img src="https://raw.githubusercontent.com/eyouyou/eyouyou/main/profile-summary-card-output/apprentice/1-repos-per-language.svg" alt="repos per language" />
+<img src="https://raw.githubusercontent.com/eyouyou/eyouyou/main/profile-summary-card-output/apprentice/2-most-commit-language.svg" alt="most commit language" />
 
-<br/><br/>
+<br/>
 
-<img src="https://raw.githubusercontent.com/eyouyou/eyouyou/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" />
+<img src="https://raw.githubusercontent.com/eyouyou/eyouyou/main/profile-summary-card-output/apprentice/4-productive-time.svg" alt="productive time" />
 
 </div>
 
@@ -113,7 +113,7 @@ contact:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eyouyou&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eyouyou&theme=xcode&hide_border=true&area=true" alt="activity graph" />
 </div>
 
 ---
@@ -129,7 +129,7 @@ contact:
 ## 💡 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=apprentice" alt="quote" />
 </div>
 
 ---
